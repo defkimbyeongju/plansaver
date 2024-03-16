@@ -1,0 +1,496 @@
+[
+{
+    "model": "deposits.newdeposits",
+    "pk": 1,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "WON플러스예금",
+        "intr_rate_6": 4.02,
+        "intr_rate_12": 4.05,
+        "intr_rate_24": 3.43,
+        "intr_rate_36": 3.43
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 2,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "한국스탠다드차타드은행",
+        "fin_prdt_nm": "e-그린세이브예금",
+        "intr_rate_6": 4.0,
+        "intr_rate_12": 4.05,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 3,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "DGB주거래우대예금(첫만남고객형)",
+        "intr_rate_6": 2.86,
+        "intr_rate_12": 3.6,
+        "intr_rate_24": 3.62,
+        "intr_rate_36": 3.64
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 4,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "DGB행복파트너예금(일반형)",
+        "intr_rate_6": 2.42,
+        "intr_rate_12": 3.16,
+        "intr_rate_24": 3.18,
+        "intr_rate_36": 3.2
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 5,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "DGB함께예금",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.8,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 6,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "IM스마트예금",
+        "intr_rate_6": 3.8,
+        "intr_rate_12": 3.95,
+        "intr_rate_24": 3.2,
+        "intr_rate_36": 3.2
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 7,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "LIVE정기예금",
+        "intr_rate_6": 2.55,
+        "intr_rate_12": 2.75,
+        "intr_rate_24": 2.8,
+        "intr_rate_36": 2.85
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 8,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "더(The) 특판 정기예금",
+        "intr_rate_6": 3.6,
+        "intr_rate_12": 3.6,
+        "intr_rate_24": 3.25,
+        "intr_rate_36": 2.95
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 9,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "더(The) 레벨업 정기예금",
+        "intr_rate_6": 3.6,
+        "intr_rate_12": 3.6,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 10,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "미즈월복리정기예금",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.76,
+        "intr_rate_24": 3.92,
+        "intr_rate_36": 3.97
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 11,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "스마트모아Dream정기예금",
+        "intr_rate_6": 3.65,
+        "intr_rate_12": 3.66,
+        "intr_rate_24": 3.82,
+        "intr_rate_36": 3.87
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 12,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "굿스타트예금",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.56,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 13,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "The플러스예금",
+        "intr_rate_6": 3.5,
+        "intr_rate_12": 3.6,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 14,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주Dream\n정기예금\n(개인/만기\n지급식)",
+        "intr_rate_6": 2.85,
+        "intr_rate_12": 3.05,
+        "intr_rate_24": 3.15,
+        "intr_rate_36": 3.25
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 15,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "J정기예금\n(만기지급식)",
+        "intr_rate_6": 3.0,
+        "intr_rate_12": 3.1,
+        "intr_rate_24": 3.0,
+        "intr_rate_36": 3.0
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 16,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "JB 다이렉트예금통장\n(만기일시지급식)",
+        "intr_rate_6": 3.9,
+        "intr_rate_12": 4.1,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 17,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "JB 123 정기예금\n (만기일시지급식)",
+        "intr_rate_6": null,
+        "intr_rate_12": 4.07,
+        "intr_rate_24": -1.0,
+        "intr_rate_36": -1.0
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 18,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "경남은행",
+        "fin_prdt_nm": "BNK더조은정기예금",
+        "intr_rate_6": 2.9,
+        "intr_rate_12": 3.25,
+        "intr_rate_24": 3.05,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 19,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "경남은행",
+        "fin_prdt_nm": "BNK주거래우대정기예금",
+        "intr_rate_6": 3.15,
+        "intr_rate_12": 3.5,
+        "intr_rate_24": 3.55,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 20,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "중소기업은행",
+        "fin_prdt_nm": "IBK평생한가족통장(실세금리정기예금)",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.45,
+        "intr_rate_24": 3.5,
+        "intr_rate_36": 3.6
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 21,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "중소기업은행",
+        "fin_prdt_nm": "i-ONE놀이터예금",
+        "intr_rate_6": 3.1,
+        "intr_rate_12": 3.25,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 22,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "중소기업은행",
+        "fin_prdt_nm": "1석7조통장(정기예금)",
+        "intr_rate_6": 3.87,
+        "intr_rate_12": 3.89,
+        "intr_rate_24": 3.86,
+        "intr_rate_36": 3.87
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 23,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "한국산업은행",
+        "fin_prdt_nm": "정기예금",
+        "intr_rate_6": 2.7,
+        "intr_rate_12": 2.7,
+        "intr_rate_24": 2.7,
+        "intr_rate_36": 2.7
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 24,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "한국산업은행",
+        "fin_prdt_nm": "KDB 정기예금",
+        "intr_rate_6": 3.7,
+        "intr_rate_12": 3.9,
+        "intr_rate_24": 3.3,
+        "intr_rate_36": 3.3
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 25,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "KB Star 정기예금",
+        "intr_rate_6": 2.3,
+        "intr_rate_12": 2.6,
+        "intr_rate_24": 2.7,
+        "intr_rate_36": 2.8
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 26,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "쏠편한 정기예금",
+        "intr_rate_6": 2.75,
+        "intr_rate_12": 2.9,
+        "intr_rate_24": 2.95,
+        "intr_rate_36": 3.0
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 27,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH왈츠회전예금 II",
+        "intr_rate_6": 3.95,
+        "intr_rate_12": 3.85,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 28,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH내가Green초록세상예금",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.1,
+        "intr_rate_24": 3.15,
+        "intr_rate_36": 3.4
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 29,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH올원e예금",
+        "intr_rate_6": 4.05,
+        "intr_rate_12": 3.95,
+        "intr_rate_24": 3.3,
+        "intr_rate_36": 3.4
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 30,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH고향사랑기부예금",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.1,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 31,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나의정기예금",
+        "intr_rate_6": 2.3,
+        "intr_rate_12": 2.6,
+        "intr_rate_24": 2.7,
+        "intr_rate_36": 2.8
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 32,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "주식회사 케이뱅크",
+        "fin_prdt_nm": "코드K 정기예금",
+        "intr_rate_6": 4.0,
+        "intr_rate_12": 4.0,
+        "intr_rate_24": 3.4,
+        "intr_rate_36": 3.4
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 33,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "Sh평생주거래우대예금\n(만기일시지급식)",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 34,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "Sh해양플라스틱Zero!예금\n(만기일시지급식)",
+        "intr_rate_6": 3.65,
+        "intr_rate_12": 3.75,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 35,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "헤이(Hey)정기예금",
+        "intr_rate_6": 4.2,
+        "intr_rate_12": 4.3,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 36,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "Sh첫만남우대예금",
+        "intr_rate_6": null,
+        "intr_rate_12": 2.97,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 37,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "주식회사 카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 정기예금",
+        "intr_rate_6": 3.9,
+        "intr_rate_12": 4.0,
+        "intr_rate_24": 4.0,
+        "intr_rate_36": 4.0
+    }
+},
+{
+    "model": "deposits.newdeposits",
+    "pk": 38,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "토스뱅크 주식회사",
+        "fin_prdt_nm": "토스뱅크 먼저 이자 받는 정기예금",
+        "intr_rate_6": 3.5,
+        "intr_rate_12": null,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+}
+]

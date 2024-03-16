@@ -1,0 +1,1052 @@
+[
+{
+    "model": "deposits.newsavings",
+    "pk": 1,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리SUPER주거래적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 2.75,
+        "intr_rate_24": 2.8,
+        "intr_rate_36": 2.85
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 2,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리SUPER주거래적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 2.55,
+        "intr_rate_24": 2.6,
+        "intr_rate_36": 2.65
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 3,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "WON적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 4.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 4,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "WON적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 4.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 5,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "한국스탠다드차타드은행",
+        "fin_prdt_nm": "퍼스트가계적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": 3.2,
+        "intr_rate_12": 3.5,
+        "intr_rate_24": 3.55,
+        "intr_rate_36": 3.6
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 6,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "한국스탠다드차타드은행",
+        "fin_prdt_nm": "퍼스트가계적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.1,
+        "intr_rate_12": 3.35,
+        "intr_rate_24": 3.4,
+        "intr_rate_36": 3.45
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 7,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "내손안에 적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.46,
+        "intr_rate_24": 3.48,
+        "intr_rate_36": 3.5
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 8,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "마이(My)적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.46,
+        "intr_rate_24": 3.48,
+        "intr_rate_36": 3.5
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 9,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "영플러스적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.66,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 10,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "내가만든 보너스적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.05,
+        "intr_rate_12": 3.8,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 11,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "IM스마트적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.75,
+        "intr_rate_12": 3.45,
+        "intr_rate_24": 3.5,
+        "intr_rate_36": 3.55
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 12,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "2030부산월드엑스포적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": null,
+        "intr_rate_24": 3.75,
+        "intr_rate_36": 3.85
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 13,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "펫 적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.0,
+        "intr_rate_12": 3.5,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 14,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "펫 적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": 3.1,
+        "intr_rate_12": 3.6,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 15,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "저탄소 실천\n적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.05,
+        "intr_rate_12": 3.35,
+        "intr_rate_24": 3.45,
+        "intr_rate_36": 3.55
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 16,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "내맘대로 \n적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.1,
+        "intr_rate_12": 3.55,
+        "intr_rate_24": 3.75,
+        "intr_rate_36": 3.8
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 17,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "너만Solo\n적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 2.4,
+        "intr_rate_24": 2.45,
+        "intr_rate_36": 2.5
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 18,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "ESG 행복그림 적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.5,
+        "intr_rate_12": null,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 19,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "쏠쏠한MY디지털적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.5,
+        "intr_rate_24": 3.6,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 20,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "쏠쏠한MY디지털적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.3,
+        "intr_rate_24": 3.4,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 21,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "해피라이프_여행스케치적금V",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": 3.1,
+        "intr_rate_12": 3.3,
+        "intr_rate_24": 3.4,
+        "intr_rate_36": 3.5
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 22,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "해피라이프_여행스케치적금V",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.9,
+        "intr_rate_12": 3.1,
+        "intr_rate_24": 3.2,
+        "intr_rate_36": 3.3
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 23,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "여행스케치_남도투어적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.2,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 24,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "여행스케치_남도투어적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 25,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "VIP플러스적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.6,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 26,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "VIP플러스적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.3,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 27,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "텔레파시적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.2,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 28,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "텔레파시적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 29,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "jBANK 저금통적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.15,
+        "intr_rate_12": 3.45,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 30,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "더탐나는적금3",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.9,
+        "intr_rate_24": 4.1,
+        "intr_rate_36": 4.3
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 31,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "더탐나는적금3",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.7,
+        "intr_rate_24": 3.9,
+        "intr_rate_36": 4.1
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 32,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "MZ플랜적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.8,
+        "intr_rate_24": 4.0,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 33,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "탐이나요적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.3,
+        "intr_rate_12": 2.5,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 34,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "JB 다이렉트적금(자유적립식)",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.9,
+        "intr_rate_24": 3.95,
+        "intr_rate_36": 4.0
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 35,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "JB 카드 재테크 적금\n(정기적립식)",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 1.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 36,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "경남은행",
+        "fin_prdt_nm": "행복Dream적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.6,
+        "intr_rate_24": 3.7,
+        "intr_rate_36": 3.8
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 37,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "경남은행",
+        "fin_prdt_nm": "BNK더조은자유적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.45,
+        "intr_rate_12": 3.75,
+        "intr_rate_24": 3.85,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 38,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "경남은행",
+        "fin_prdt_nm": "BNK 위더스(With-us)자유적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": -1.0,
+        "intr_rate_12": -1.0,
+        "intr_rate_24": -1.0,
+        "intr_rate_36": -1.0
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 39,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "경남은행",
+        "fin_prdt_nm": "BNK 위더스(With-us)자유적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.75,
+        "intr_rate_12": 3.05,
+        "intr_rate_24": 3.15,
+        "intr_rate_36": 3.25
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 40,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "경남은행",
+        "fin_prdt_nm": "주거래프리미엄적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.55,
+        "intr_rate_24": 3.6,
+        "intr_rate_36": 3.65
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 41,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "경남은행",
+        "fin_prdt_nm": "오늘도세이브적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.45,
+        "intr_rate_12": null,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 42,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "중소기업은행",
+        "fin_prdt_nm": "IBK썸통장(자유적립식)",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 43,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "중소기업은행",
+        "fin_prdt_nm": "IBK D-day적금(자유적립식)",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.65,
+        "intr_rate_12": 3.85,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 44,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "중소기업은행",
+        "fin_prdt_nm": "IBK탄소제로적금(자유적립식)",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 45,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "중소기업은행",
+        "fin_prdt_nm": "IBK중기근로자우대적금\n(자유적립식)",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.5,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 46,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "한국산업은행",
+        "fin_prdt_nm": "KDBdream 자유적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.71,
+        "intr_rate_24": 3.81,
+        "intr_rate_36": 3.91
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 47,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "한국산업은행",
+        "fin_prdt_nm": "정기적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": 2.5,
+        "intr_rate_12": 2.6,
+        "intr_rate_24": 2.7,
+        "intr_rate_36": 2.7
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 48,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "한국산업은행",
+        "fin_prdt_nm": "KDB Hi 자유적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.82,
+        "intr_rate_24": 3.88,
+        "intr_rate_36": 4.06
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 49,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "KB국민프리미엄적금(정액)",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 2.75,
+        "intr_rate_24": 2.95,
+        "intr_rate_36": 3.05
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 50,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "KB반려행복적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": 3.3,
+        "intr_rate_36": 3.5
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 51,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "KB 특★한 적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.0,
+        "intr_rate_12": null,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 52,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한 알.쏠 적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": 3.1,
+        "intr_rate_36": 3.2
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 53,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH올원e 미니적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.0,
+        "intr_rate_12": null,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 54,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH1934월복리적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.0,
+        "intr_rate_12": 3.1,
+        "intr_rate_24": 3.15,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 55,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH내가Green초록세상적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.1,
+        "intr_rate_24": 3.15,
+        "intr_rate_36": 3.4
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 56,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH고향사랑기부적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.4,
+        "intr_rate_24": 3.45,
+        "intr_rate_36": 3.7
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 57,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "농협은행주식회사",
+        "fin_prdt_nm": "NH직장인월복리적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.7,
+        "intr_rate_24": 3.32,
+        "intr_rate_36": 3.42
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 58,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "주거래하나 월복리적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.55,
+        "intr_rate_24": 3.65,
+        "intr_rate_36": 3.75
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 59,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "내맘적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": 3.2,
+        "intr_rate_12": 3.3,
+        "intr_rate_24": 3.45,
+        "intr_rate_36": 3.55
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 60,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "내맘적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.15,
+        "intr_rate_12": 3.25,
+        "intr_rate_24": 3.35,
+        "intr_rate_36": 3.45
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 61,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "주식회사 케이뱅크",
+        "fin_prdt_nm": "코드K 자유적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.6,
+        "intr_rate_12": 4.3,
+        "intr_rate_24": 4.35,
+        "intr_rate_36": 4.4
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 62,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "주식회사 케이뱅크",
+        "fin_prdt_nm": "주거래우대 자유적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.5,
+        "intr_rate_12": 4.2,
+        "intr_rate_24": 4.25,
+        "intr_rate_36": 4.3
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 63,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "Sh평생주거래우대적금",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 2.6,
+        "intr_rate_24": 2.7,
+        "intr_rate_36": 2.8
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 64,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "Sh해양플라스틱Zero!적금\n(정액적립식)",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.5,
+        "intr_rate_24": 3.0,
+        "intr_rate_36": 3.3
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 65,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "헤이(Hey)적금(정액적립식)",
+        "rsrv_type_nm": "정액적립식",
+        "intr_rate_6": 2.8,
+        "intr_rate_12": 2.9,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 66,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "Sh월복리자유적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 2.2,
+        "intr_rate_24": 1.8,
+        "intr_rate_36": 1.9
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 67,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "Sh해양플라스틱Zero!적금\n(자유적립식)",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.15,
+        "intr_rate_24": 2.35,
+        "intr_rate_36": 2.35
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 68,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "헤이(Hey)적금(자유적립식)",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.8,
+        "intr_rate_12": 2.9,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 69,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "수협은행",
+        "fin_prdt_nm": "Sh수산물을좋아海적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 70,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "주식회사 카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 자유적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.7,
+        "intr_rate_12": 4.0,
+        "intr_rate_24": 4.0,
+        "intr_rate_36": 4.0
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 71,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "주식회사 카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 26주적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 3.0,
+        "intr_rate_12": null,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 72,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "토스뱅크 주식회사",
+        "fin_prdt_nm": "토스뱅크 키워봐요 적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.0,
+        "intr_rate_12": null,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 73,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "토스뱅크 주식회사",
+        "fin_prdt_nm": "토스뱅크 굴비 적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.0,
+        "intr_rate_12": null,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 74,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "토스뱅크 주식회사",
+        "fin_prdt_nm": "토스뱅크 자유 적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": 2.0,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": 3.0,
+        "intr_rate_36": 3.0
+    }
+},
+{
+    "model": "deposits.newsavings",
+    "pk": 75,
+    "fields": {
+        "dcls_month": 202310,
+        "kor_co_nm": "토스뱅크 주식회사",
+        "fin_prdt_nm": "토스뱅크 아이 적금",
+        "rsrv_type_nm": "자유적립식",
+        "intr_rate_6": null,
+        "intr_rate_12": 3.0,
+        "intr_rate_24": null,
+        "intr_rate_36": null
+    }
+}
+]
